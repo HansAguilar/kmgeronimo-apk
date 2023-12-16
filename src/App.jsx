@@ -31,7 +31,7 @@ function App() {
               <h1 className="text-4xl max-sm:text-lg max-lg:text-xl font-bold mb-4 text-[#5b5b5b]">The Future of <span className='text-[#4bcce0] underline'>Dental Care</span> is Here.</h1>
               <p className="text-lg max-sm:text-[0.60rem] max-lg:text-sm mb-8 w-[28rem] m-auto text-[#5b5b5b]">Download our KM Geronimo App: Book & manage appointments, convenient and simple.</p>
               <button
-                onClick={() => window.location.href = 'https://expo.dev/accounts/jlbabon12/projects/km-geronimo/builds/fc59f82c-1d67-4deb-ba9f-95eac5219790?fbclid=IwAR17ugwayRrLdqp8YNhBrS7V2Gh5qPn7dtivXj3rcQHx6UBTCYVUJaI2bjo'}
+                onClick={() => window.location.href = 'https://github.com/HansAguilar/kmgeronimo-apk/releases/download/km-geronimo-app/application-fc59f82c-1d67-4deb-ba9f-95eac5219790.apk'}
                 className="animate-bounce bg-transparent border-[#5b5b5b] border-2 hover:bg-[#ffffff] text-[#5b5b5b] shadow-md font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
                 Download Now
               </button>
