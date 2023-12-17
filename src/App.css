@@ -1,7 +1,9 @@
 #root {
-  margin: 0 auto;
   text-align: center;
-  /* background: rgb(147, 239, 255);
-  background: linear-gradient(rgb(87, 179, 196) 0%, rgba(74, 223, 238, 1) 35%, rgba(15, 206, 238, 1) 100%); */
-  /* min-height: 100dvh; */
+  height: 100dvh;
+}
+
+body {
+  min-width: 100dvw;
+  min-height: 100dvh;
 }
